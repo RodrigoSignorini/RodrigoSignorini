@@ -4,8 +4,12 @@
 🌟 Linguagens que estou explorando: Python, JavaScript, NodeJs, CSS e HTML.</br>
 📚 Sempre em busca de novos desafios e conhecimentos!</br>
 🌍 Idiomas: Português(Nativo), Italiano(intermediário), Inglês(Básico)</br>
+##
+<div style="display:  inline_block"></br>
+    <img align="center" alt="stats" src="https://github-readme-stats.vercel.app/api?username=RodrigoSignorini&theme=dracula" />
+</div>    
 
-
+##
 
 <div style="display:  inline_block">
     <img align="center" alt="javascript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
@@ -25,10 +29,6 @@
 
 <div style="display:  inline_block">
     <img align="center" alt="css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-</div>    
-
-<div style="display:  inline_block"></br>
-    <img align="center" alt="stats" src="https://github-readme-stats.vercel.app/api?username=RodrigoSignorini&theme=dracula" />
 </div>    
 
 ### Ferramentas 
