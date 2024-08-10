@@ -48,3 +48,27 @@
 <div style="display:  inline_block">
     <img align="auto" alt="indesign" src="https://img.shields.io/badge/Adobe%20InDesign-FF3366?style=for-the-badge&logo=Adobe%20InDesign&logoColor=white" />
 </div>    
+
+# Olá, eu sou [Seu Nome] 👋
+
+## Sobre Mim
+
+👨‍💻 Sou um entusiasta da programação, atualmente começando minha jornada no mundo da programação. Estou animado para aprender e crescer em várias tecnologias e frameworks.
+
+## Tecnologias que estou aprendendo 🚀
+
+- ![JavaScript](https://img.shields.io/badge/-JavaScript-FFD700?logo=javascript&logoColor=white)
+- ![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white)
+- ![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white)
+- ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
+- ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+
+## Contato 📫
+
+- [LinkedIn](https://www.linkedin.com/in/seu-perfil) 
+- [Twitter](https://twitter.com/seu-usuario)
+
+---
+
+📚 Estou sempre buscando aprender mais e estou aberto a novas oportunidades e colaborações. Vamos conectar!
+
