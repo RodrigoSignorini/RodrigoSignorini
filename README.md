@@ -5,7 +5,6 @@
 📚 Sempre em busca de novos desafios e conhecimentos!</br>
 🌍 Idiomas: Português(Nativo), Italiano(intermediário), Inglês(Básico)</br>
 
-##
 <div style="display:  inline_block"></br>
     <img align="center" alt="stats" src="https://github-readme-stats.vercel.app/api?username=RodrigoSignorini&theme=dracula" />
 </div>    
@@ -21,8 +20,6 @@
 ## Contato 📫
 
 - [LinkedIn](https://www.linkedin.com/in/rodrigo-zan-signorini-6784a86b/) 
-
----
 
 📚 Estou sempre buscando aprender mais e estou aberto a novas oportunidades e colaborações. Vamos conectar!
 
