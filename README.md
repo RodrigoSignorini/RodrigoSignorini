@@ -13,10 +13,10 @@
 ## Tecnologias que estou aprendendo 🚀
 
 - ![JavaScript](https://img.shields.io/badge/-JavaScript-FFD700?logo=javascript&logoColor=white)
-- ![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white)
-- ![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white)
 - ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
 - ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+- ![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white)
+- ![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white)
 
 ## Contato 📫
 
